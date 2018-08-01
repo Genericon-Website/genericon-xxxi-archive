@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+	<!--[if IE 8]>
+		<html xmlns="http://www.w3.org/1999/xhtml" class="ie8" lang="en-US">
+	<![endif]-->
+	<!--[if !(IE 8) ]><!-->
+		<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+	<!--<![endif]-->
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Log In &lsaquo; Genericon &#8212; WordPress</title>
+	<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' href='http://genericon.org/wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_stylesheet-css'  href='http://genericon.org/wp-content/plugins/captcha/css/front_end_style.css?ver=4.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_desktop_style-css'  href='http://genericon.org/wp-content/plugins/captcha/css/desktop_style.css?ver=4.4.5' type='text/css' media='all' />
+<meta name='robots' content='noindex,follow' />
+	<meta name="viewport" content="width=device-width" />
+	<link rel="icon" href="http://genericon.org/wp-content/uploads/2016/07/cropped-pasted_image_at_2016_07_01_09_28_pm-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://genericon.org/wp-content/uploads/2016/07/cropped-pasted_image_at_2016_07_01_09_28_pm-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://genericon.org/wp-content/uploads/2016/07/cropped-pasted_image_at_2016_07_01_09_28_pm-180x180.png" />
+<meta name="msapplication-TileImage" content="http://genericon.org/wp-content/uploads/2016/07/cropped-pasted_image_at_2016_07_01_09_28_pm-270x270.png" />
+	</head>
+	<body class="login login-action-login wp-core-ui  locale-en-us">
+		<div id="login">
+		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Powered by WordPress</a></h1>
+	
+<form name="loginform" id="loginform" action="http://genericon.org/wp-login.php" method="post">
+	<p>
+		<label for="user_login">Username or Email Address<br />
+		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
+	</p>
+	<p>
+		<label for="user_pass">Password<br />
+		<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" /></label>
+	</p>
+	<p class="cptch_block"><span class="cptch_wrap cptch_math_actions">
+				<label class="cptch_label" for="cptch_input_52"><span class="cptch_span"><input id="cptch_input_52" class="cptch_input cptch_wp_login" type="text" autocomplete="off" name="cptch_number" value="" maxlength="2" size="2" aria-required="true" required="required" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;" /></span>
+					<span class="cptch_span">&nbsp;&minus;&nbsp;</span>
+					<span class="cptch_span">f&#111;u&#114;</span>
+					<span class="cptch_span">&nbsp;=&nbsp;</span>
+					<span class="cptch_span"><img class="cptch_img " src="data:image/png;base64,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" alt="image"/></span>
+					<input type="hidden" name="cptch_result" value="YuA=" /><input type="hidden" name="cptch_time" value="1533087533" />
+					<input type="hidden" name="cptch_form" value="wp_login" />
+				</label><span class="cptch_reload_button_wrap hide-if-no-js">
+					<noscript>
+						<style type="text/css">
+							.hide-if-no-js {
+								display: none !important;
+							}
+						</style>
+					</noscript>
+					<span class="cptch_reload_button dashicons dashicons-update"></span>
+				</span></span></p><br />	<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> Remember Me</label></p>
+	<p class="submit">
+		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
+		<input type="hidden" name="redirect_to" value="http://genericon.org/2016/07/01/welcome-to-our-new-website/" />
+		<input type="hidden" name="testcookie" value="1" />
+	</p>
+</form>
+
+<p id="nav">
+	<a href="http://genericon.org/wp-login.php?action=lostpassword">Lost your password?</a>
+</p>
+
+<script type="ff8255b6cdee570d0f96a8c6-text/javascript">
+function wp_attempt_focus(){
+setTimeout( function(){ try{
+d = document.getElementById('user_login');
+d.focus();
+d.select();
+} catch(e){}
+}, 200);
+}
+
+wp_attempt_focus();
+if(typeof wpOnload=='function')wpOnload();
+</script>
+
+	<p id="backtoblog"><a href="http://genericon.org/">&larr; Back to Genericon</a></p>
+		
+	</div>
+
+	
+	<link rel='stylesheet' id='jetpack_css-css'  href='http://genericon.org/wp-content/plugins/jetpack/css/jetpack.css?ver=6.3.2' type='text/css' media='all' />
+<script type="ff8255b6cdee570d0f96a8c6-text/javascript">
+/* <![CDATA[ */
+var cptch_vars = {"nonce":"73dfb9518a","ajaxurl":"http:\/\/genericon.org\/wp-admin\/admin-ajax.php","enlarge":""};
+/* ]]> */
+</script>
+<script type="ff8255b6cdee570d0f96a8c6-text/javascript" src='http://genericon.org/wp-admin/load-scripts.php?c=0&amp;load%5B%5D=jquery-core,jquery-migrate&amp;ver=4.9.7'></script>
+<script type="ff8255b6cdee570d0f96a8c6-text/javascript" src='http://genericon.org/wp-content/plugins/captcha/js/front_end_script.js?ver=4.9.7'></script>
+	<div class="clear"></div>
+	<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/2448a7bd/cloudflare-static/rocket-loader.min.js" data-cf-nonce="ff8255b6cdee570d0f96a8c6-" defer=""></script></body>
+	</html>
+	

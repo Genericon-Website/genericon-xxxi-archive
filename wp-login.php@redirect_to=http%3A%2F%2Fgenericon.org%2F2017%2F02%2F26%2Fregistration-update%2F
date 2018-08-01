@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+	<!--[if IE 8]>
+		<html xmlns="http://www.w3.org/1999/xhtml" class="ie8" lang="en-US">
+	<![endif]-->
+	<!--[if !(IE 8) ]><!-->
+		<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+	<!--<![endif]-->
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Log In &lsaquo; Genericon &#8212; WordPress</title>
+	<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' href='http://genericon.org/wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_stylesheet-css'  href='http://genericon.org/wp-content/plugins/captcha/css/front_end_style.css?ver=4.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_desktop_style-css'  href='http://genericon.org/wp-content/plugins/captcha/css/desktop_style.css?ver=4.4.5' type='text/css' media='all' />
+<meta name='robots' content='noindex,follow' />
+	<meta name="viewport" content="width=device-width" />
+	<link rel="icon" href="http://genericon.org/wp-content/uploads/2016/07/cropped-pasted_image_at_2016_07_01_09_28_pm-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://genericon.org/wp-content/uploads/2016/07/cropped-pasted_image_at_2016_07_01_09_28_pm-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://genericon.org/wp-content/uploads/2016/07/cropped-pasted_image_at_2016_07_01_09_28_pm-180x180.png" />
+<meta name="msapplication-TileImage" content="http://genericon.org/wp-content/uploads/2016/07/cropped-pasted_image_at_2016_07_01_09_28_pm-270x270.png" />
+	</head>
+	<body class="login login-action-login wp-core-ui  locale-en-us">
+		<div id="login">
+		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Powered by WordPress</a></h1>
+	
+<form name="loginform" id="loginform" action="http://genericon.org/wp-login.php" method="post">
+	<p>
+		<label for="user_login">Username or Email Address<br />
+		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
+	</p>
+	<p>
+		<label for="user_pass">Password<br />
+		<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" /></label>
+	</p>
+	<p class="cptch_block"><span class="cptch_wrap cptch_math_actions">
+				<label class="cptch_label" for="cptch_input_47"><span class="cptch_span"><img class="cptch_img " src="data:image/png;base64,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" alt="image"/></span>
+					<span class="cptch_span">&nbsp;&#43;&nbsp;</span>
+					<span class="cptch_span"><img class="cptch_img " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAMAAADDpiTIAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhQTFRFiIiI////AAAAYGBguLi49fX13d3dMjIyhQMs8AAABWFJREFUeNrs3cFu2zAQRVGNRUr//8dFjRTownZkpQaqeeeuk4XMEw5pOMlyU3SLlwAAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAAADASwCAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAALgY+2zDjQB6PrTcGj9AejaOLb+ADTd/kcVALmtWwGQvP6zAEge/1UABI//rQCIHv8TALd/ANz+ATD+AXD7B8D4B8DtHwDjH4De439OAIIBLGeXH4Dk8Q9A+PgHoMn4LwCCASxVAAQDGAVAMICfjX8Awsc/AOHjH4Dw8Q9A+PgH4MrjvwqAYABLAZAMYCsAggGs/3D9Aci8/QNg/ANwzdvfKACCAexbARAMYJkFQDCAD6w/AMHjH4Dc2z8AF9z+JwDBAMZnlh+A5PEPwGXWfxYAwQCWKgCCAYwCIBjAvk0AggGc+7MvAPS5/Z9Y/20BIHn8z30FoMn4P7P+236zA/QY/+f+6td+AyB3/P/++Qcg+PZ/X38AUsf/1/oD0KDtB+sPQIct4Mz6nxkfAPyvd4Dz6w9Aj4d5c/3HXwdI/zQq7x4wTn4nAD1uAssNgH5vBR/eyedyA6AfgMMHwbmev0MCcP2D4J/rPwD9Pg8w3jz+fQFwC2jT9t7xzw7Qrf3N8Q9At9b3xv89nwlMOQiOx98ynQEyDoLPntcOEHEQfDj+AWjY43cEH4//e34xJOAgOF58PQD9D4IvHxWA7gfB5+P/+cgAoM9B8MX4P/LmEQAXPwiOU4dGALocBL99SjtA54Pg6/EPQOPGgfEPQOe278f/07cNAGhxEDz2gAC0FXDwvOgWkJ0dAAAAAAAgtgUAAABIBuAWYAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAAEAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAGgBv0SYACFudcj/Eb08AAAAABJRU5ErkJggg==" alt="image"/></span>
+					<span class="cptch_span">&nbsp;=&nbsp;</span>
+					<span class="cptch_span"><input id="cptch_input_47" class="cptch_input cptch_wp_login" type="text" autocomplete="off" name="cptch_number" value="" maxlength="2" size="2" aria-required="true" required="required" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;" /></span>
+					<input type="hidden" name="cptch_result" value="QKo=" /><input type="hidden" name="cptch_time" value="1533087493" />
+					<input type="hidden" name="cptch_form" value="wp_login" />
+				</label><span class="cptch_reload_button_wrap hide-if-no-js">
+					<noscript>
+						<style type="text/css">
+							.hide-if-no-js {
+								display: none !important;
+							}
+						</style>
+					</noscript>
+					<span class="cptch_reload_button dashicons dashicons-update"></span>
+				</span></span></p><br />	<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> Remember Me</label></p>
+	<p class="submit">
+		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
+		<input type="hidden" name="redirect_to" value="http://genericon.org/2017/02/26/registration-update/" />
+		<input type="hidden" name="testcookie" value="1" />
+	</p>
+</form>
+
+<p id="nav">
+	<a href="http://genericon.org/wp-login.php?action=lostpassword">Lost your password?</a>
+</p>
+
+<script type="0bdb0db95153cead98fec2a9-text/javascript">
+function wp_attempt_focus(){
+setTimeout( function(){ try{
+d = document.getElementById('user_login');
+d.focus();
+d.select();
+} catch(e){}
+}, 200);
+}
+
+wp_attempt_focus();
+if(typeof wpOnload=='function')wpOnload();
+</script>
+
+	<p id="backtoblog"><a href="http://genericon.org/">&larr; Back to Genericon</a></p>
+		
+	</div>
+
+	
+	<link rel='stylesheet' id='jetpack_css-css'  href='http://genericon.org/wp-content/plugins/jetpack/css/jetpack.css?ver=6.3.2' type='text/css' media='all' />
+<script type="0bdb0db95153cead98fec2a9-text/javascript">
+/* <![CDATA[ */
+var cptch_vars = {"nonce":"73dfb9518a","ajaxurl":"http:\/\/genericon.org\/wp-admin\/admin-ajax.php","enlarge":""};
+/* ]]> */
+</script>
+<script type="0bdb0db95153cead98fec2a9-text/javascript" src='http://genericon.org/wp-admin/load-scripts.php?c=0&amp;load%5B%5D=jquery-core,jquery-migrate&amp;ver=4.9.7'></script>
+<script type="0bdb0db95153cead98fec2a9-text/javascript" src='http://genericon.org/wp-content/plugins/captcha/js/front_end_script.js?ver=4.9.7'></script>
+	<div class="clear"></div>
+	<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/2448a7bd/cloudflare-static/rocket-loader.min.js" data-cf-nonce="0bdb0db95153cead98fec2a9-" defer=""></script></body>
+	</html>
+	

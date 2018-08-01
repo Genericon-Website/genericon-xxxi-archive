@@ -1,0 +1,7 @@
+Sitemap: http://genericon.org/sitemap.xml
+Sitemap: http://genericon.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: http://genericon.org/sitemap.xml
